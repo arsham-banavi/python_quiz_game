@@ -1,11 +1,6 @@
 # Python Quiz Game
 A simple quiz game built with python
 ## Table of contents
-
-
-
-
-- [Table of contents](#table-of-contents)
 - [Features](#features)
 - [Project Structure](#project-structure)
 - [Requirements](#requirements)
@@ -13,6 +8,7 @@ A simple quiz game built with python
 - [Environment Setup](#environment-setup)
 - [Usage](#usage)
 - [Example Output](#example-output)
+- [Screenshot](#screenshot)
 - [Roadmap](#roadmap)
 - [Contributing](#contributing)
 - [License](#license)
@@ -94,6 +90,7 @@ python main.py
 6. answer the questions
 7. see your final score and message
 8. your result is saved in `results.txt`
+
 ## Example Output
 ```text
 do u want to open admin mode? yes/no: no
@@ -113,6 +110,17 @@ your score is: 1 out of  3
 keep practicing alex
 
 ```
+## Screenshot
+
+### start game
+![start game](pictures\1.png)
+
+### quiz
+![quiz](pictures\2.png)
+
+### final score
+![quiz](pictures\3.png)
+
 ## Roadmap
 - [x] add multiple quiz questions
 - [x] calculate the final score
@@ -121,6 +129,7 @@ keep practicing alex
 - [ ] add more quiz questions
 - [ ] add difficulty levels
 - [ ] add a timer
+
 ## Contributing
 
 ## License
